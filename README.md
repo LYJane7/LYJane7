@@ -27,10 +27,6 @@ Here are some of the technologies and tools I enjoy using:
 ### 📊 GitHub Stats
 Here is a quick overview of my GitHub activity:
 
-| **GitHub Stats** | **Most Used Languages** |
-| --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial&hide_border=true" width="400px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial&hide_border=true" width="400px"/> |
-
 ---
 
 ### 📫 Connect with me
