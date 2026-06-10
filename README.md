@@ -3,8 +3,8 @@
 ### 🚀 About Me
 I am a student from CHINA. I love building projects, learning new technologies, and collaborating with others.
 
-- 🌱 I’m currently learning **[Java]**
-- 💬 Ask me about **[Topics you like, e.g., Web Development, Gaming, Design]**
+- 🌱 I’m currently learning **Java**
+- 💬 Ask me about **Topics you like, e.g., Web Development, Gaming, Design**
 - ⚡ Fun fact **[Insert a fun fact about yourself here]**
 
 ---
